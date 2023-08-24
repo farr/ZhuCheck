@@ -1,0 +1,17 @@
+name: ZhuCheck
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3
+  - arviz
+  - seaborn
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - astropy
+  - pyarrow
+  - ca-certificates
+  - certifi
+  - openssl
+prefix: /Users/wfarr/miniconda3/envs/ZhuCheck
